@@ -10,6 +10,6 @@ https://www.aircraftsystemstech.com/p/bonding-and-grounding.html
 
 Bonding stack 
 
-AN3-4A AN Bolt
-AN960PD-10 Washer
-AN365-1032A Lock Nut
+- AN3-4A AN Bolt
+- AN960PD-10 Washer
+- AN365-1032A Lock Nut

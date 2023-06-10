@@ -4,3 +4,12 @@
 
 https://www.aircraftsystemstech.com/p/bonding-and-grounding.html
 
+
+![image](https://github.com/uge/N26922/assets/1831363/96a5397b-98c4-4cbe-831b-1ff4a334d5e0)
+
+
+Bonding stack 
+
+AN3-4A AN Bolt
+AN960PD-10 Washer
+AN365-1032A Lock Nut
